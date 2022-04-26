@@ -48,8 +48,7 @@ class _OrthoDemoPageState extends State<OrthoDemoPage> {
                     "name": "ortho test",
                     "email": "ayoshokz@gmail.com",
                     "amount": 500000,
-                    "key":
-                        "sk_live_LFcQQzAo3f60G7VDpYRCNj11brzr5koPqFcBVj6YdxyPOxp5IQ",
+                    "key": "",
                     "currency": "USD",
                     "acceptPartialPayment": "false"
                   };
